@@ -30,6 +30,4 @@ def get_num(s, i):
       return (num, i)
     
 #print(get_num('n12e2z', 1))
-print(uncompress("3n12e2z") # -> 'nnneeeeeeeeeeeezz'
-
-     )
+print(uncompress("3n12e2z")) # -> 'nnneeeeeeeeeeeezz'
